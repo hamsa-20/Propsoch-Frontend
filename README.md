@@ -187,7 +187,7 @@ In addition to improving the landing page, I expanded the platform to simulate a
 ##  Lighthouse Scores – Improved Version
 
 After implementing all improvements and additional features:
-```bash
+
 
 | Metric           | Original | Improved |
 |------------------|----------|----------|
@@ -196,7 +196,7 @@ After implementing all improvements and additional features:
 | Best Practices   | 50       | **73**   |
 | SEO              | 100      | **83**   |
 
-```
+
 
 ### Why SEO Dropped Slightly
 - Development environment meta handling
