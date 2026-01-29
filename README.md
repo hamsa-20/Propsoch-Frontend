@@ -1,5 +1,5 @@
 
-# 🏡 Propsoch Landing Page Redesign & Feature Expansion
+#  Propsoch Landing Page Redesign & Feature Expansion
 
 This project is an in-depth analysis and improvement of the **Propsoch** real estate platform.  
 The goal was to enhance **performance, accessibility, UX/UI, and functionality**, while preserving the original product intent and brand identity.
@@ -15,12 +15,13 @@ Lighthouse audit was conducted on the original Propsoch landing page using Chrom
 
 ```bash
 
-| Metric | Score |
-|------|------|
-| Performance | **43** |
-| Accessibility | **71** |
-| Best Practices | **50** |
-| SEO | **100** |
+| Metric          | Score |
+|-----------------|-------|
+| Performance     | **43** |
+| Accessibility   | **71** |
+| Best Practices  | **50** |
+| SEO             | **100** |
+
 ```
 
 ### Key Observations
