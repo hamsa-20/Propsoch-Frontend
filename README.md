@@ -11,19 +11,19 @@ The goal was to enhance **performance, accessibility, UX/UI, and functionality**
 
 Lighthouse audit was conducted on the original Propsoch landing page using Chrome DevTools (Desktop).
 
-```bash
 
-| Metric           | Original | Improved |
-|------------------|----------|----------|
-| Performance      | 43       | **76**   |
-| Accessibility    | 71       | **82**   |
-| Best Practices   | 50       | **73**   |
-| SEO              | 100      | **83**   |
-
+| Metric           | Score |
+|------------------|-------|
+| Performance      | 43    |
+| Accessibility    | 71    |
+| Best Practices   | 50    |
+| SEO              | 100   |
 
 
 
-```
+
+
+
 
 ### Key Observations
 - Performance was significantly low due to unoptimized assets and heavy rendering.
@@ -189,12 +189,13 @@ In addition to improving the landing page, I expanded the platform to simulate a
 After implementing all improvements and additional features:
 ```bash
 
-| Metric | Original | Improved |
-|------|--------|---------|
-| Performance | 43 | **76** |
-| Accessibility | 71 | **82** |
-| Best Practices | 50 | **73** |
-| SEO | 100 | **83** |
+| Metric           | Original | Improved |
+|------------------|----------|----------|
+| Performance      | 43       | **76**   |
+| Accessibility    | 71       | **82**   |
+| Best Practices   | 50       | **73**   |
+| SEO              | 100      | **83**   |
+
 ```
 
 ### Why SEO Dropped Slightly
