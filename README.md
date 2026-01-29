@@ -7,20 +7,18 @@ The goal was to enhance **performance, accessibility, UX/UI, and functionality**
 ---
 
 
----
-
 ##  Part 1: Lighthouse Analysis (Original Website)
 
 Lighthouse audit was conducted on the original Propsoch landing page using Chrome DevTools (Desktop).
 
 ```bash
 
-| Metric          | Score |
-|-----------------|-------|
-| Performance     | **43** |
-| Accessibility   | **71** |
-| Best Practices  | **50** |
-| SEO             | **100** |
+| Metric | Score |
+|------|------|
+| Performance | **43** |
+| Accessibility | **71** |
+| Best Practices | **50** |
+| SEO | **100** |
 
 ```
 
