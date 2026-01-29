@@ -5,7 +5,7 @@ This project is an in-depth analysis and improvement of the **Propsoch** real es
 The goal was to enhance **performance, accessibility, UX/UI, and functionality**, while preserving the original product intent and brand identity.
 
 ---
-LIVE DENO: https://propsoch-frontend-gamma.vercel.app/
+LIVE DEMO: https://propsoch-frontend-gamma.vercel.app/
 
 ##  Part 1: Lighthouse Analysis (Original Website)
 
