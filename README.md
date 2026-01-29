@@ -13,12 +13,12 @@ Lighthouse audit was conducted on the original Propsoch landing page using Chrom
 
 ```bash
 
-| Metric | Score |
-|------|------|
-| Performance | **43** |
-| Accessibility | **71** |
-| Best Practices | **50** |
-| SEO | **100** |
+| Metric          | Score  |
+|-----------------|--------|
+| Performance     | **43** |
+| Accessibility   | **71** |
+| Best Practices  | **50** |
+| SEO             | **100** |
 
 ```
 
