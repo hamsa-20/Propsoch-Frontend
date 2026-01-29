@@ -21,6 +21,7 @@ Lighthouse audit was conducted on the original Propsoch landing page using Chrom
 | SEO              | 100      | **83**   |
 
 
+
 ```
 
 ### Key Observations
