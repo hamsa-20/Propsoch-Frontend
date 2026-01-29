@@ -22,6 +22,7 @@ Lighthouse audit was conducted on the original Propsoch landing page using Chrom
 
 
 
+
 ```
 
 ### Key Observations
